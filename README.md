@@ -1,0 +1,2 @@
+# imageProcessing
+This repository contains multiple files that contains codes and programs which are exercises from a course called image Processing (Bildverarbeitung), which is in the my third semester of my studies. In this course we learned about how manipulate pixels to create a certain filter, effect, transformation, building a histogram to collect data and analyse it, etc. All using Java and its framework
